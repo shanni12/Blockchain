@@ -1,5 +1,8 @@
-*/blockchain-env/*
-*/__pycache__/*
+blockchain-env/*
+__pycache__/*
+*__pycache__/*
+*.pyc
+.vscode/*
 */.mypy_cache/*
 */.pytest_cache/*
 */node_modules/*
